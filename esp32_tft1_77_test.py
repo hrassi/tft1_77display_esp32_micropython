@@ -1,6 +1,6 @@
 """
 MicroPython/Espressif ESP32-C3-DevKitM-1 exercise
-+ 1.8" 128x160 TFT ST7735 SPI
++ 1.8" 128 x 160 TFT ST7735 SPI
 
 using library boochow/MicroPython-ST7735
 https://github.com/boochow/MicroPython-ST7735
